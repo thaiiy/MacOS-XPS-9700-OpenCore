@@ -19,7 +19,7 @@ Battery life is not great (~4 hours).  If anyone is able to improve it, please l
 |Built-in display UHD630 |Yes, full graphics acceleration|
 |Output display using Thunderbolt |Yes, 2 4K@60Hz (via DP) + built-in (1920x1200) tested|
 |Output audio to monitor via Thunderbolt (DP) |Yes|
-|CPU power management|Normal, could use improvement)|
+|CPU power management|Normal, could use improvement|
 |Built-in keyboard|Yes|
 |Built-in touchpad/touchpad gestures|Yes|
 |Thunderbolt 3|Yes|
