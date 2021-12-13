@@ -16,14 +16,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-BCKM.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-BCKM.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-EC-USBX-LAPTOP.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -77,14 +69,6 @@
 				<true/>
 				<key>Path</key>
 				<string>ssdt-rmne.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-TPDX.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-TPDX.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
