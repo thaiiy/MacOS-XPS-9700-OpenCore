@@ -19,7 +19,7 @@ Battery life is not great (~4 hours).  If anyone is able to improve it, please l
 |Built-in display UHD630 |Yes, full graphics acceleration|
 |Output display using Thunderbolt |Yes, 2 4K@60Hz (via DP) + built-in (1920x1200) tested|
 |Output audio to monitor via Thunderbolt (DP) |Yes|
-|CPU power management|Normal work-idle 800MHz, up to turbo frequency)|
+|CPU power management|Normal, could use improvement)|
 |Built-in keyboard|Yes|
 |Built-in touchpad/touchpad gestures|Yes|
 |Thunderbolt 3|Yes|
@@ -31,13 +31,13 @@ Battery life is not great (~4 hours).  If anyone is able to improve it, please l
 |Built-in camera|Yes|
 |Facetime|Yes|
 |iMessage|Yes|
-|Sleep|Yes (not fully tested)|
-|Hibernation|No (lid close functionality must be disabled in BIOS)|
+|SD card slot|Yes|
+|Sleep|No|
+|Hibernation|No (lid close + other methods leading to hibernation must be disabled)|
 |Headphone plug|No|
 |Speakers|No|
 |Microphone|No|
 |Fingerprint recognition module|No|
-|SD card slot|Not tested|
 
 ---
 
