@@ -2,9 +2,9 @@
 
 This is an EFI made with OpenCore. You can install macOS BigSur on Dell XPS 17 9700 (2020).
 I think this EFI should be easy enough to just drag and drop.  You need to set your own serial number/MLB.
-Battery life is not great (2-3 hours).  If anyone is able to improve it, please let me know!
+Battery life is not great (~4 hours).  If anyone is able to improve it, please let me know!
 
-<b>OpenCore Version:</b> 0.6.4
+<b>OpenCore Version:</b> 0.7.6
 
 <b>macOS Version:</b> BigSur 11.6.1
 
@@ -44,7 +44,7 @@ Battery life is not great (2-3 hours).  If anyone is able to improve it, please 
 
 ## Note
 
-ALC256.aml SSDT file is included to get Facetime working.  I think if you use any audio codec it will work, especially if you can get the speakers working.
+ALC289.aml SSDT file is included to get Facetime working.  I think if you use any audio codec it will work, especially if you can get the speakers working.
 
 Some models of Dell XPS 17 9700 are equipped with Hynix PC611. They cannot be used on MacOS and will not be able to enter the system/installation interface if they are not shielded. They can be shielded in the BIOS.
 
