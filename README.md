@@ -6,7 +6,7 @@ Battery life is not great (~4 hours).  If anyone is able to improve it, please l
 
 <b>OpenCore Version:</b> 0.7.6
 
-<b>macOS Version:</b> BigSur 11.6.1
+<b>macOS Version:</b> Monterey 12.1
 
 
 ---
