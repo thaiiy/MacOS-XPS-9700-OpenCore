@@ -2,7 +2,7 @@
 
 This is an EFI made with OpenCore. You can install macOS BigSur on Dell XPS 17 9700 (2020).
 I think this EFI should be easy enough to just drag and drop.  You need to set your own serial number/MLB.
-Battery life is not great (~4 hours).  If anyone is able to improve it, please let me know!
+Battery life is decent (~4-6 hours), dGPU-OFF SSDT is customized to this model (by myself, an amateur).  If anyone is able to improve it, please let me know!
 
 <b>OpenCore Version:</b> 0.7.6
 
